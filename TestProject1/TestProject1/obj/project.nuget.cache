@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "teV/SI8caMM=",
+  "dgSpecHash": "pgOPRoCq1+I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vijit\\source\\repos\\TestProject1\\TestProject1\\APITesting.csproj",
+  "projectFilePath": "C:\\Users\\vijit\\OneDrive\\Documents\\kavya\\API testing\\LGC-API-Testing-challenge2\\TestProject1\\TestProject1\\APITesting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vijit\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\vijit\\.nuget\\packages\\extentreports\\5.0.0\\extentreports.5.0.0.nupkg.sha512",
@@ -39,16 +39,5 @@
     "C:\\Users\\vijit\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\vijit\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "APITesting depends on ExtentReports (>= 4.1.1) but ExtentReports 4.1.1 was not found. An approximate best match of ExtentReports 5.0.0 was resolved.",
-      "libraryId": "ExtentReports",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

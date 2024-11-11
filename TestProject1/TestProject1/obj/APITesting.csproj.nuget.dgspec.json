@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vijit\\source\\repos\\TestProject1\\TestProject1\\APITesting.csproj": {}
+    "C:\\Users\\vijit\\OneDrive\\Documents\\kavya\\API testing\\LGC-API-Testing-challenge2\\TestProject1\\TestProject1\\APITesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vijit\\source\\repos\\TestProject1\\TestProject1\\APITesting.csproj": {
+    "C:\\Users\\vijit\\OneDrive\\Documents\\kavya\\API testing\\LGC-API-Testing-challenge2\\TestProject1\\TestProject1\\APITesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vijit\\source\\repos\\TestProject1\\TestProject1\\APITesting.csproj",
+        "projectUniqueName": "C:\\Users\\vijit\\OneDrive\\Documents\\kavya\\API testing\\LGC-API-Testing-challenge2\\TestProject1\\TestProject1\\APITesting.csproj",
         "projectName": "APITesting",
-        "projectPath": "C:\\Users\\vijit\\source\\repos\\TestProject1\\TestProject1\\APITesting.csproj",
+        "projectPath": "C:\\Users\\vijit\\OneDrive\\Documents\\kavya\\API testing\\LGC-API-Testing-challenge2\\TestProject1\\TestProject1\\APITesting.csproj",
         "packagesPath": "C:\\Users\\vijit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vijit\\source\\repos\\TestProject1\\TestProject1\\obj\\",
+        "outputPath": "C:\\Users\\vijit\\OneDrive\\Documents\\kavya\\API testing\\LGC-API-Testing-challenge2\\TestProject1\\TestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vijit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,7 +48,7 @@
           "dependencies": {
             "ExtentReports": {
               "target": "Package",
-              "version": "[4.1.1, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",

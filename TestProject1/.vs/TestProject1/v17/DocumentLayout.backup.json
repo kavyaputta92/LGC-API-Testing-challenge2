@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\vijit\\source\\repos\\TestProject1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E758F31-90E6-4377-B7E2-27436C135F87}|TestProject1\\TestProject1.csproj|c:\\users\\vijit\\source\\repos\\testproject1\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E758F31-90E6-4377-B7E2-27436C135F87}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E758F31-90E6-4377-B7E2-27436C135F87}|TestProject1\\APITesting.csproj|c:\\users\\vijit\\source\\repos\\testproject1\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E758F31-90E6-4377-B7E2-27436C135F87}|TestProject1\\APITesting.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E758F31-90E6-4377-B7E2-27436C135F87}|TestProject1\\APITesting.csproj|c:\\users\\vijit\\source\\repos\\testproject1\\testproject1\\apitesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "TestProject1\\APITesting.csproj",
               "ToolTip": "C:\\Users\\vijit\\source\\repos\\TestProject1\\TestProject1\\APITesting.csproj",
               "RelativeToolTip": "TestProject1\\APITesting.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-11-10T21:02:46.232Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\vijit\\source\\repos\\TestProject1\\TestProject1\\UnitTest1.cs",
               "RelativeToolTip": "TestProject1\\UnitTest1.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAmwJUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAswJUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T21:00:26.455Z",
               "EditorCaption": ""
