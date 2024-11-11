@@ -1,0 +1,6 @@
+C:\Users\vijit\OneDrive\Documents\kavya\API testing\LGC-API-Testing-challenge2\obj\Debug\net8.0\APITesting.csproj.AssemblyReference.cache
+C:\Users\vijit\OneDrive\Documents\kavya\API testing\LGC-API-Testing-challenge2\obj\Debug\net8.0\APITesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijit\OneDrive\Documents\kavya\API testing\LGC-API-Testing-challenge2\obj\Debug\net8.0\APITesting.AssemblyInfoInputs.cache
+C:\Users\vijit\OneDrive\Documents\kavya\API testing\LGC-API-Testing-challenge2\obj\Debug\net8.0\APITesting.AssemblyInfo.cs
+C:\Users\vijit\OneDrive\Documents\kavya\API testing\LGC-API-Testing-challenge2\obj\Debug\net8.0\APITesting.csproj.CoreCompileInputs.cache
+C:\Users\vijit\OneDrive\Documents\kavya\API testing\LGC-API-Testing-challenge2\obj\Debug\net8.0\APITesting.sourcelink.json
